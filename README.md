@@ -1,3 +1,3 @@
-# SDA Assignment
-# Muhammad Danyal Khan
-# FA21-BSE-111
+# JWT Authentication System
+
+# bcrypt usage with enhanced security
